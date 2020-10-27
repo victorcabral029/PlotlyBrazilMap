@@ -1,2 +1,2 @@
 # PlotlyBrazilMap
-Using Plotly to make an visualization of Brazil map
+Using Plotly to make a visualization of Brazil map
